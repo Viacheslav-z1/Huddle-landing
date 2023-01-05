@@ -6,6 +6,40 @@
 
 
 
+.header {
+
+  padding: 20px 0;
+		&__inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+		}
+
+		&__btn-box {
+		}
+
+		&__link {
+      background-color: transparent;
+      border: 1px solid $light-pink;
+      border-radius: 20px;
+      padding: 5px;
+      color: $light-pink;
+      font-size: 16px;
+		}
+}
+.container {
+}
+.logo {
+
+		&__inner {
+		}
+
+		&__link {
+		}
+
+		&__img {
+		}
+}
 
 
 
